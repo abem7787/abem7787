@@ -5,7 +5,7 @@
 - <b>Aesthetics & Interactive Design (JS, HTML, CSS)</b>
   - [Aesthetics & Interactive Design](https://github.com/abem7787/-Web-base-Interactive-Design)
 - <b>Full Stack Web App ()</b>
-  - [Laravel React Js Application](https://github.com/abem7787/Bbay-ProductSurvey) <b><i>(Potentially NSFW)</b></i>
+  - [Laravel React Js Application](https://github.com/abem7787/Bbay-ProductSurvey) <b><i>(PHP/ Laravel/MySQL/ React.js)</b></i>
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)])
   - [Ransomware Proof of Concept (Decrypter)])
