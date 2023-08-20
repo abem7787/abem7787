@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Aesthetics & Interactive Design</b>
+- <b>Aesthetics & Interactive Design (JS, HTML, CSS)</b>
   - [Aesthetics & Interactive Design](https://github.com/abem7787/-Web-base-Interactive-Design)
 - <b>Full Stack Web App (React, NodeJS, )</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
