@@ -11,7 +11,7 @@
   - [Ransomware Proof of Concept (Decrypter)])
   - [Keylogger with Email Capability]()
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
+  - [(Datastructures and Algorithms Demo)]()
 
 <h2>📺 Popular Certifications </h2>
 
