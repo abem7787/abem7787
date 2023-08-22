@@ -6,14 +6,10 @@
   - [Aesthetics & Interactive Design](https://github.com/abem7787/-Web-base-Interactive-Design)
 - <b>Full Stack Web App (PHP/ Laravel/MySQL/ React.js)</b>
   - [Laravel React Js Application](https://github.com/abem7787/Bbay-ProductSurvey) </i>
-  - <b>Full Stack Web App (React.js/Mongoose DB)</b>
-  - [Laravel React Js Application](https://github.com/abem7787/Bbay-ProductSurvey) </i>
 
-  https://github.com/abem7787/VMD-MEDICAL-COMMUNITY</i>
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)])
-  - [Ransomware Proof of Concept (Decrypter)])
-  - [Keylogger with Email Capability]()
+- <b>Full Stack Web App (React.js/Mongoose DB)</b>
+  - [React.js/Mongoose DB](https://github.com/abem7787/VMD-MEDICAL-COMMUNITY) </i>
+
 - <b>Python</b>
   - [(Datastructures and Algorithms Demo)]()
 
