@@ -15,7 +15,7 @@
 
 <h2>📺 Popular Certifications </h2>
 
-- Harvard University cs5o course: www.edx.org/cs50  
+- Harvard University CS50 course: www.edx.org/cs50  
 
 <h2> 🤳 Connect with me:</h2>
 
