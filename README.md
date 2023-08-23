@@ -15,7 +15,7 @@
 
 <h2>📺 Popular Certifications </h2>
 
-- Computer Science accredited courses and programs from Harvard University: www.edx.org/cs50  
+- Harvard University cs5o course: www.edx.org/cs50  
 
 <h2> 🤳 Connect with me:</h2>
 
