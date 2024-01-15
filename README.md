@@ -13,9 +13,9 @@
 - <b>Python</b>
   - [(Datastructures and Algorithms Demo)]()
 
-<h2>📺 Popular Certifications </h2>
+<h2> Certifications </h2>
 
-- Harvard University CS50 course: www.edx.org/cs50  
+- Harvard University CS50 course: https://media.licdn.com/dms/image/D4E22AQFzfcDCZH6Tqw/feedshare-shrink_2048_1536/0/1700053787174?e=1706140800&v=beta&t=5CHc2vKgi7idyZWE4UHaSV-pSsizz4DUbGxhGTQfsRA
 
 <h2> 🤳 Connect with me:</h2>
 
