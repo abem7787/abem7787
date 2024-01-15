@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abe! <br/><a href="https://github.com/abem7787">Programmer</a>, <a href="https://www.linkedin.com/in/abraham-mirambeaux-3a1617164/">Software Developer Professional</a></h1>
+<h1>Hi, I'm Abe founder of Right Angle Tech! <br/><a href="https://github.com/abem7787">Programmer</a>, <a href="https://www.linkedin.com/in/abraham-mirambeaux-3a1617164/">Software Developer Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
